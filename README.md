@@ -12,7 +12,7 @@ Interactive UI: Clean card-based design with hover effects and responsive button
 
 Game Logic: Uses Math.random() for target generation and state tracking for attempts.
 
-Tech Stack:
+🚀 Tech Stack:
 HTML5 (Structure)
 
 CSS3 (Flexbox, Card UI)
